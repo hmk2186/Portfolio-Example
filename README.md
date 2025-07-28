@@ -1,6 +1,6 @@
 # 🌐 Basic Portfolio Website (Example Project)
 
-This is a **demo portfolio website** built using **HTML** and **CSS**, created for practice and demonstration purposes. It mimics the structure of a personal portfolio, showcasing sections like About, Skills, Projects, and Contact — perfect for front-end beginners.
+This is a **demo portfolio website** built using **HTML** and **CSS**, created for practice and demonstration purposes. It mimics the structure of a personal portfolio, showcasing sections like About, Skills, Projects, and Contact — perfect for front-end beginners.Here I used Internal css.
 
 ## 🚀 Features
 
@@ -14,4 +14,4 @@ This is a **demo portfolio website** built using **HTML** and **CSS**, created f
 
 * HTML5
 * CSS3
-*Here I used Internal css.
+
